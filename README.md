@@ -217,6 +217,7 @@ Your console will print a URL. Open it in your browser.
 **3. Watch the magic!**
 Interact with your app and see performance traces appear live on the webpage.
 
+<p align="center"><img src="static/webui.png" alt="BlocTracker WebUI"></p>
 
 ## 🔌 Advanced Usage
 

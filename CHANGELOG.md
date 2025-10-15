@@ -1,4 +1,8 @@
-## [1.0.0] - 2023-10-27
+## 1.0.1 - 2025-10-15
+
+- Updated README.md to include a banner and web ui image
+
+## [1.0.0] - 2025-10-15
 
 ### Added
 
