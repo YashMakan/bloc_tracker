@@ -4,6 +4,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![Style: lint](https://img.shields.io/badge/style-lint-40c4ff.svg?style=for-the-badge)](https://pub.dev/packages/lints)
 
+
+<p align="center"><img src="static/banner.png" alt="BlocTracker Banner"></p>
+
 **A powerful, zero-dependency performance monitoring and debugging tool for the `bloc` library.**
 
 Move beyond simple `print` statements. BlocTracker gives you pinpoint accuracy on your event handlers, helping you find performance bottlenecks, track down failures, and understand your app's logic flow with precision.
