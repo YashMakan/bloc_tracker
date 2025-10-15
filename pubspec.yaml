@@ -1,6 +1,6 @@
 name: bloc_tracker
 description: A powerful, zero-dependency performance profiler for the bloc library.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/yashmakan/bloc_tracker
 repository: https://github.com/yashmakan/bloc_tracker
 issue_tracker: https://github.com/yashmakan/bloc_tracker/issues
