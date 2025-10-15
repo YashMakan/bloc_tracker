@@ -1,12 +1,13 @@
 name: bloc_tracker
-description: A starting point for Dart libraries or applications.
+description: A powerful, zero-dependency performance profiler for the bloc library.
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+homepage: https://github.com/yashmakan/bloc_tracker
+repository: https://github.com/yashmakan/bloc_tracker
+issue_tracker: https://github.com/yashmakan/bloc_tracker/issues
 
 environment:
   sdk: ^3.8.0
 
-# Add regular dependencies here.
 dependencies:
   bloc: ^9.1.0
   meta: ^1.16.0
